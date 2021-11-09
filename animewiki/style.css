@@ -1,0 +1,68 @@
+/*
+Theme Name: Mundo Geek
+Theme URI: http://www.mundogeek.com.br
+Author: the Rafaela Farias Santana 
+Author URI: http://www.rafaelafarias.com.br
+Description: Tema criado para atividade de A.W.
+Version: 1.0
+Text Domain: glowup
+*/
+.headr-site{
+	background-image:url(/wp-content/themes/glowup/assets/img/9.png);
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	padding-top:300px;
+	padding-bottom:300px;
+	color:white;
+}
+
+.img-site{
+	background-image:url(../img/2.jfif);
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	padding-top:300px;
+	padding-bottom:300px;
+	color:white;
+}
+.inici{
+        width:100%;
+        height:100%;
+      }
+
+
+.meio{
+background-image:url(../img/8.jpg);
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	padding-top:300px;
+	padding-bottom:300px;
+	color:white;
+}
+.footer-site{
+	background-color:#333333;
+	color:white;
+	padding-bottom:50px;
+	padding-top:50px;
+	
+}
+
+
+      .content-site{
+      	
+      }
+    .footer-site a{
+          color:white;
+          font-size:20px;
+
+        }
+       .footer-site img {
+    
+    border-style: none;
+}
+       
